@@ -1,0 +1,27 @@
+div{
+	color: red;
+}
+header{
+	color: rgb(65, 128, 2);
+}
+.h2{
+color: rgb(0, 109, 109) ;
+}
+.text{
+	color: rgb(0, 94, 32) ;
+}
+.li{
+	color: darkgreen;
+}
+.li__1{
+	color: blueviolet;
+}
+.ul{
+color: rgb(1, 19, 126);
+}
+.h3{
+color: crimson;
+}
+a{
+	color: rgb(255, 0, 119);
+}
